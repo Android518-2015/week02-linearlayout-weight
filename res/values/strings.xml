@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SampleLinearLayout</string>
+    <string name="action_settings">Settings</string>
+    <string name="explain">The only purpose for this code is to show the effect of using the android:layout_weight attribute in LinearLayouts. See the xml in the layout file.</string>
+</resources>
