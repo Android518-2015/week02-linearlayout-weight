@@ -1,8 +1,8 @@
-# week2-simple-views
-Simple example of the use of ViewGroup LinearLayout 
-and some  View widgets
-manipulation of content programmatically
+# week02-linearlayout-weight
+# SampleLinearLayout
 
-Plus the use of an  intent to invoke another activity
+Excample of using the attribute android:linear_weight for 
+widgets (Views) nested within LinearLayout (ViewGroups)
 
+See the res/layout/activity_main.xml
 
